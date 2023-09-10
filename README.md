@@ -1,4 +1,4 @@
-# From localhost to AWS Cloud: Host your Go Web App
+# Go Web Application - Deploy and Host on AWS
 
 ### Create an EC2 instance on AWS
 * Go to AWS Console
